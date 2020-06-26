@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1593168451 source:c:\users\mihai\desktop\bancomat\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<string.h>
+	<time.h>
+
