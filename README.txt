@@ -1,6 +1,6 @@
 Hello!
 
-This is a mini project made during high school and which I discovered now. 
+This is a project made during high school and which I discovered now. 
 It is a simulator of a bank ATM. I made some adjustments and I think 
 it turned out pretty well. The program works in English but you can add 
 as many languages without too many changes.
